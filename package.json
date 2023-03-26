@@ -1,0 +1,17 @@
+{
+  "name": "hitbloq-sr-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "start": "tsc && node build/main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6"
+  }
+}
